@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		8845A3E02A99CFFD007CE84E /* STL_List */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = STL_List; sourceTree = BUILT_PRODUCTS_DIR; };
 		8845A3E32A99CFFD007CE84E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8845A3EA2A99D02E007CE84E /* OneLinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OneLinkedList.h; sourceTree = "<group>"; };
+		8845A3EB2A99DDAE007CE84E /* TwoLinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TwoLinkedList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				8845A3E32A99CFFD007CE84E /* main.cpp */,
+				8845A3EA2A99D02E007CE84E /* OneLinkedList.h */,
+				8845A3EB2A99DDAE007CE84E /* TwoLinkedList.h */,
 			);
 			path = STL_List;
 			sourceTree = "<group>";
